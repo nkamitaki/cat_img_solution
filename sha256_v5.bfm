@@ -1,0 +1,2110 @@
+sentinel1(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>[-]+>-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+sentinel0(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>[-]>-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+next(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>}
+prev(){<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+prev33(){<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+
+r1(){>}
+r2(){>>}
+r3(){>>>}
+r4(){>>>>}
+r5(){>>>>>}
+r6(){>>>>>>}
+r7(){>>>>>>>}
+r8(){>>>>>>>>}
+r9(){>>>>>>>>>}
+r10(){>>>>>>>>>>}
+r11(){>>>>>>>>>>>}
+r12(){>>>>>>>>>>>>}
+r13(){>>>>>>>>>>>>>}
+r14(){>>>>>>>>>>>>>>}
+r15(){>>>>>>>>>>>>>>>}
+r16(){>>>>>>>>>>>>>>>>}
+r17(){>>>>>>>>>>>>>>>>>}
+r18(){>>>>>>>>>>>>>>>>>>}
+r19(){>>>>>>>>>>>>>>>>>>>}
+r20(){>>>>>>>>>>>>>>>>>>>>}
+r21(){>>>>>>>>>>>>>>>>>>>>>}
+r22(){>>>>>>>>>>>>>>>>>>>>>>}
+r23(){>>>>>>>>>>>>>>>>>>>>>>>}
+r24(){>>>>>>>>>>>>>>>>>>>>>>>>}
+r25(){>>>>>>>>>>>>>>>>>>>>>>>>>}
+r26(){>>>>>>>>>>>>>>>>>>>>>>>>>>}
+r27(){>>>>>>>>>>>>>>>>>>>>>>>>>>>}
+r28(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>}
+r29(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>}
+r30(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>}
+r31(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>}
+r32(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>}
+l1(){<}
+l2(){<<}
+l3(){<<<}
+l4(){<<<<}
+l5(){<<<<<}
+l6(){<<<<<<}
+l7(){<<<<<<<}
+l8(){<<<<<<<<}
+l9(){<<<<<<<<<}
+l10(){<<<<<<<<<<}
+l11(){<<<<<<<<<<<}
+l12(){<<<<<<<<<<<<}
+l13(){<<<<<<<<<<<<<}
+l14(){<<<<<<<<<<<<<<}
+l15(){<<<<<<<<<<<<<<<}
+l16(){<<<<<<<<<<<<<<<<}
+l17(){<<<<<<<<<<<<<<<<<}
+l18(){<<<<<<<<<<<<<<<<<<}
+l19(){<<<<<<<<<<<<<<<<<<<}
+l20(){<<<<<<<<<<<<<<<<<<<<}
+l21(){<<<<<<<<<<<<<<<<<<<<<}
+l22(){<<<<<<<<<<<<<<<<<<<<<<}
+l23(){<<<<<<<<<<<<<<<<<<<<<<<}
+l24(){<<<<<<<<<<<<<<<<<<<<<<<<}
+l25(){<<<<<<<<<<<<<<<<<<<<<<<<<}
+l26(){<<<<<<<<<<<<<<<<<<<<<<<<<<}
+l27(){<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+l28(){<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+l29(){<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+l30(){<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+l31(){<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+l32(){<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+
+H0(){+>+>+>>>+>+>>>+>+>>>+>+>+>+>>>+>>>>>>+>>+>>+>+>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+H1(){+>>+>>>>>+>>+>+>+>>+>>+>+>+>+>>>+>+>>+>+>>+>+>+>>+><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+H2(){>+>>>+>+>+>>+>+>>>+>+>+>+>>+>+>+>>+>+>>>>+>+>+>+>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+H3(){>+>>+>+>+>>>+>>+>>+>+>+>+>+>+>+>+>>>+>>+>>+>>>+>>+><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+H4(){+>+>+>+>+>+>+>>>+>>>+>>+>>>+>+>+>>>>>+>>>>+>>+>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+H5(){>>+>+>>>>+>>>>+>>+>+>>+>>+>>>>>>+>+>>+>+>>>+><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+H6(){+>+>>+>>+>>+>+>>>+>+>>+>+>+>+>>>>>>+>+>+>+>+>+>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+H7(){+>>>+>+>>>>+>>+>+>>>+>+>>>>>>+>+>+>+>+>>+>+>>+>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+
+K0(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<<<<<+<<+<<<<+<<+<<<<+<<+<+<+<+<+<<<+<+<<<}
+K1(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<+<+<<<<+<<<+<+<<+<+<+<<+<<<<+<<<+<<<+<<<<+}
+K2(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<+<+<<+<<+<+<+<<<<<<<+<+<+<+<+<<+<+<+<+<<<+<+<+<+}
+K3(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<+<<+<<<+<+<<+<+<<+<<+<+<+<<+<+<<+<+<+<<+<<<+<<+}
+K4(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<+<+<+<<<+<<+<<+<<+<+<<+<+<<<<<+<<<+<<+<+<<+<+}
+K5(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<<+<+<<<+<+<+<+<+<<<<+<<<<+<<<<+<+<+<+<+<<<<+}
+K6(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<<+<<<+<<<<+<+<+<+<+<+<+<<<<<<+<<+<<+<<<+<<}
+K7(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<+<<+<<+<+<<<<+<+<+<<<<+<<+<+<+<+<<+<+<<+<<+<<+}
+K8(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<<+<+<<<<<<<<<+<+<+<+<<+<<+<<+<<+<<<+<+<<<}
+K9(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<+<<<+<<+<<<<<<+<+<<+<<+<+<<+<+<<<<<<<<+}
+K10(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<+<<<+<<<<<+<+<<<<+<+<<<<<+<<+<+<<+<+<+<+<+<}
+K11(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<<+<<+<<+<<<<<+<+<<<<+<+<+<+<+<<+<+<+<<<<<+<+}
+K12(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<+<+<<<+<<+<<+<+<+<+<+<<<+<<+<+<+<<+<<+<+<+<<+<<}
+K13(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<<<<<<<+<+<<+<+<+<+<<+<<+<+<<<<+<+<+<+<+<+<+<+<}
+K14(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<<+<+<<+<+<+<+<<+<+<+<<<<<<<<+<+<<+<<+<<<+<+<+}
+K15(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<<<<<<+<+<<<+<+<<+<+<+<+<+<+<<<<+<<+<+<+<<+<<}
+K16(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<+<<<+<<<+<<<+<+<<+<+<<+<+<<+<<<+<+<+<<<<<<+}
+K17(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<+<<+<+<+<+<+<<+<+<+<+<+<<<+<<<<+<+<+<+<<<<<+<+<}
+K18(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<+<+<+<+<+<+<<<<<<+<+<<<+<+<+<<+<+<+<<<<+<+<}
+K19(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<+<<<+<<<<<<<+<+<<<+<<+<<<<<+<+<+<<<+<+<<}
+K20(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<+<<+<+<<+<+<+<+<<+<<<+<<<+<<+<+<<<<+<+<<+<+<+<+}
+K21(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<<<+<<+<<<+<+<+<<+<<<+<<<<<+<<<+<<+<<+<<+<}
+K22(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<<+<+<+<<<+<<+<+<<<<<+<<+<<+<<<+<+<+<<+<+<+<<}
+K23(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<+<+<<+<+<<+<+<+<+<+<<<+<+<<<<+<<<<+<+<<+<+<<+<}
+K24(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<<+<+<<<<<<+<+<+<+<+<<<+<<+<<<<+<<+<<+<<<+<}
+K25(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<+<<+<<<<<<+<+<<<<+<+<+<<<<+<+<<<+<+<<+<+<<+}
+K26(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<+<+<<<<<<<<<<<+<+<<<+<<<+<+<+<+<+<<<+<<<}
+K27(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<+<+<+<+<+<+<<+<<+<+<<<+<<+<+<+<+<+<+<+<+<+<<<<+<+<+}
+K28(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<<<<+<+<<+<+<+<<<<<<<<<<+<<+<+<+<+<+<+<<<+<+}
+K29(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<<+<<+<<+<+<<+<<<+<+<+<+<<<+<<<<+<<+<<<<+<+<+}
+K30(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<+<+<<+<+<<<+<<+<<<+<+<<<<+<+<<+<<+<<<<+}
+K31(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<+<<+<<<<<+<<+<<<+<<<+<<+<<<+<<+<+<<<+<+<+}
+K32(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<+<<<+<+<+<+<<+<+<<+<+<+<<<<<+<<+<<+<<<<<+<<+}
+K33(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<+<<+<+<+<<<<<+<+<<+<+<<<+<<<<<+<<<+<+<+<<<}
+K34(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<<<+<+<<+<<<+<<+<+<<<<+<+<<+<+<<+<+<+<+<+<+<+<<}
+K35(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<<+<<<+<+<<<+<+<+<<<<<<<<+<+<<+<<<<+<<<+<+}
+K36(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<+<<<+<<+<<<<<+<<+<<<+<+<+<<<+<+<<+<<+<<+<<}
+K37(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<+<+<<+<+<<<+<+<<+<<+<<<<<<+<<+<<+<<+<+<+<<+<+}
+K38(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<<<<<<+<+<+<<<<<+<<+<+<<<+<<<+<<<+<<+<+<+<}
+K39(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<<+<<<+<<<+<+<+<<<+<<<<+<<+<+<<<+<<<<<+<<+}
+K40(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<+<<<<+<<+<<+<+<+<+<+<+<+<+<+<<+<<<<+<<+<<<<<+}
+K41(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<+<<+<<<<<<<+<+<<+<<<+<+<<<+<+<<<+<<<+<<+<+}
+K42(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<<<<<+<<<+<<<+<<+<+<+<<<<+<<+<+<<+<+<+<<<<}
+K43(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<<<<+<+<+<<+<+<<+<+<<<<+<<+<<<<+<+<<+<<<<+<+}
+K44(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<<+<<<<+<+<<<+<<<+<<+<+<+<<+<<<<<<<+<+<<<+}
+K45(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<<+<<+<+<<+<<<+<+<<<+<<<<<<+<+<<<<+<<<+<<}
+K46(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<+<+<<+<<<<<<<+<+<+<<<<+<+<<+<<+<+<<<<<+<<+}
+K47(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<+<<<<<<+<+<<+<<+<<+<<+<<<<<<<+<+<+<<<<}
+K48(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<+<+<<<+<+<<+<<<+<<<+<+<<<<<<+<<<<+<<+<+<}
+K49(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<+<+<+<+<<<<+<+<<+<+<+<<+<+<<+<+<<<<<<<+<<<}
+K50(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<+<<<+<+<+<<+<<<+<<<<<+<+<+<<+<+<+<<+<<<+<+<<}
+K51(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<+<+<<+<<<+<<+<+<<<<<+<<+<+<+<+<<<+<<+<+<<+<<+}
+K52(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<+<+<+<<<+<<<<+<+<+<<<<<<<+<+<<<+<<+<+<<<+<+}
+K53(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<<<+<+<+<<+<+<<+<+<<<<+<<+<<+<<+<<<+<<<+<<+<}
+K54(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<<+<+<<+<+<+<<<+<+<+<<<+<+<<<+<<+<<<+<<<+<+<+<+}
+K55(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<+<<+<<<<<<+<<+<+<+<<<+<+<<+<+<+<+<+<+<+<+<<<+<+}
+K56(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<+<+<<+<<<+<<<<+<+<+<+<+<<<<<<+<<+<+<+<<+<+<+<}
+K57(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<+<+<+<+<<<<+<<+<<<+<<+<<+<+<<<<+<+<<+<+<<+<+<+<+}
+K58(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<<<<+<<<+<+<<<+<<<<<+<+<+<+<<<<<<<+<<+<<}
+K59(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<<<+<+<<<+<+<<<<+<+<+<<<<<<<+<<<<<<+<<<}
+K60(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<<+<<<<<+<<+<+<+<+<+<<+<+<+<+<+<+<+<+<+<+<+<+<+<<+<}
+K61(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<+<<<+<<<<+<<+<<<<<<+<+<<+<+<<<+<+<+<<+<<+<+}
+K62(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<<+<+<+<+<+<<+<+<+<+<+<<<+<+<<+<<<<+<+<+<+<+<+<<+<+<+}
+K63(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><+<+<<<<+<+<<<+<+<+<<<<+<<+<+<+<+<<<<+<+<+<+<<<+<}
+
+WA(){prev()}
+W0(){}
+W1(){next() }
+W2(){next() next() }
+W3(){next() next() next() }
+W4(){next() next() next() next() }
+W5(){next() next() next() next() next() }
+W6(){next() next() next() next() next() next() }
+W7(){next() next() next() next() next() next() next() }
+W8(){next() next() next() next() next() next() next() next() }
+W9(){next() next() next() next() next() next() next() next() next() }
+W10(){next() next() next() next() next() next() next() next() next() next() }
+W11(){next() next() next() next() next() next() next() next() next() next() next() }
+W12(){next() next() next() next() next() next() next() next() next() next() next() next() }
+W13(){next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W14(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W15(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W16(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W17(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W18(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W19(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W20(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W21(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W22(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W23(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W24(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W25(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W26(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W27(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W28(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W29(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W30(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W31(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W32(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W33(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W34(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W35(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W36(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W37(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W38(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W39(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W40(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W41(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W42(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W43(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W44(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W45(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W46(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W47(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W48(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W49(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W50(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W51(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W52(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W53(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W54(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W55(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W56(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W57(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W58(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W59(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W60(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W61(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W62(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W63(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W64(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W65(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W66(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W67(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W68(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W69(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W70(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W71(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W72(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W73(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W74(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W75(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W76(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W77(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W78(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W79(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W80(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W81(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W82(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W83(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W84(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W85(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W86(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W87(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W88(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W89(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W90(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W91(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W92(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W93(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W94(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W95(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W96(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W97(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W98(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W99(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+W100(){next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() next() }
+
+WAR(){next()}
+W0R(){}
+W1R(){prev() }
+W2R(){prev() prev() }
+W3R(){prev() prev() prev() }
+W4R(){prev() prev() prev() prev() }
+W5R(){prev() prev() prev() prev() prev() }
+W6R(){prev() prev() prev() prev() prev() prev() }
+W7R(){prev() prev() prev() prev() prev() prev() prev() }
+W8R(){prev() prev() prev() prev() prev() prev() prev() prev() }
+W9R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W10R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W11R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W12R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W13R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W14R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W15R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W16R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W17R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W18R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W19R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W20R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W21R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W22R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W23R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W24R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W25R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W26R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W27R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W28R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W29R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W30R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W31R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W32R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W33R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W34R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W35R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W36R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W37R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W38R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W39R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W40R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W41R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W42R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W43R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W44R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W45R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W46R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W47R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W48R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W49R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W50R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W51R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W52R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W53R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W54R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W55R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W56R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W57R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W58R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W59R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W60R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W61R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W62R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W63R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W64R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W65R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W66R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W67R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W68R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W69R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W70R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W71R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W72R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W73R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W74R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W75R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W76R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W77R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W78R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W79R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W80R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W81R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W82R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W83R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W84R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W85R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W86R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W87R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W88R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W89R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W90R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W91R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W92R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W93R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W94R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W95R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W96R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W97R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W98R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W99R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+W100R(){prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() prev() }
+
+
+setW15(){>>>>>>>>+<<<<<<<<}
+setW8(){>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<}
+
+
+input(x)
+{
+    !
+    ? x <<[-],>-<[>>>>>>>>>>>>>>>>>>>>>>>>>>[->]++[-<+]-<-],[>>>>>>>>>>>>>>>>>>[->]++[-<+]-<-],[>>>>>>>>>>[->]++[-<+]-<-],[>>[->]++[-<+]-<-]>+
+    ? >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ~
+}
+
+
+output(x)
+{
+    !
+    ? x next() <<<
+      [-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<.<
+      [-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<.<
+      [-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<.<
+      [-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<[-<++>]<.
+    ?~
+}
+
+clear(x)
+{
+	!
+    ? x
+     sentinel1()
+	 +[- [-]> +]
+	? prev33() > ~
+}
+
+copy(x;y)
+{
+	!
+    ? x
+     sentinel1()
+	 +[--[+>-]+
+    ? > y +
+    ? >> x +]
+	? prev33() >> ~
+}
+
+copy_right(x;xr;y)
+{
+	!
+    ? x
+     sentinel1()
+	 +[- -[+>-] --
+    ? > y +
+     ++[--<++]+ > +]
+	? prev33() y > xr ~
+}
+
+copy_left(x;xr;y)
+{
+	!
+    ? x
+     sentinel1()
+	 +[- -[+>-] --
+    ? > y +
+     ++[-->++]+ > +]
+	? prev33() y >>> xr ~
+}
+
+move(x;y)
+{
+	!
+    ? x
+     sentinel1()
+	 +[--[+>-]
+    ? > y +
+    ? >> x +]
+	? prev33() >> ~
+}
+
+move_right(x;xr;y)
+{
+	!
+    ? x
+     sentinel1()
+	 +[- -[+>-] --
+    ? > y +
+     ++[--<++] > +]
+	? prev33() y > xr ~
+}
+
+move_left(x;xr;y)
+{
+	!
+    ? x
+     sentinel1()
+	 +[- -[+>-] --
+    ? > y +
+     ++[-->++] > +]
+	? prev33() y >>> xr ~
+}
+
+or(x;y)
+{
+	!
+    ? x
+     sentinel1()
+	 +[--[+>-]+
+    ? > y [-]+
+    ? >> x +]
+	? prev33() >> ~
+}
+
+or_move(x;y)
+{
+	!
+    ? x
+     sentinel1()
+	 +[--[+>-]
+    ? > y [-]+
+    ? >> x +]
+	? prev33() >> ~
+}
+
+
+and(x;y)
+{
+	!
+    ? x
+     sentinel0()
+	 +[-[>]
+    ? > y [-]
+    ? >> x +]
+	? prev33() >> ~
+}
+
+and_left(x;xr;y)
+{
+	!
+    ? x
+     sentinel0()
+	 +[-[>] --
+    ? > y [-]
+     ++[-->++] > +]
+	? prev33() y >>> xr ~
+}
+
+not(x;y)
+{
+	!
+    ? x
+     sentinel0()
+	 +[-[>]
+    ? > y +
+    ? >> x +]
+	? prev33() >> ~
+}
+
+carryover(x)
+{
+	!
+    ? x
+      < -- < [-] ++ >>
+      next() << [-]
+	  +[---[++<--]>++]
+	? next() < ~
+}
+
+no_carryover(x)
+{
+	!
+    ? x
+      < ++ < [-] - >>
+      next() << [-]
+	  +[---[++<--]<+]
+	? next() << ~
+}
+
+
+
+add(x;y)
+{
+    !
+    ? copy(x;y)
+    ? carryover(y)
+    ?~
+}
+
+add_right(x;xr;y)
+{
+    !
+    ? x
+     sentinel1()
+	 +[--[+>-] --
+    ? > y [->] +
+      ++[--<++]+ > +]
+	? y y xr >> [-] < [-]
+    ? y xr >> prev33() ~
+}
+
+
+add_left(x;xr;y)
+{
+    !
+    ? x
+     sentinel1()
+	 +[--[+>-] --
+    ? > y [->] +
+      ++[-->++]+ > +]
+	? y y xr >>>> [-] < [-]
+    ? y xr >>>> prev33() ~
+}
+
+xor(x;y)
+{
+    !
+    ? copy(x;y)
+    ? no_carryover(y)
+    ?~
+}
+
+add_move_right(x;xr;y)
+{
+    !
+    ? x
+     sentinel1()
+	 +[--[+>-] --
+    ? > y [->] +
+      ++[--<++] > +]
+	? y y xr >> [-] < [-]
+    ? y xr >> prev33() ~
+}
+
+
+add_move_left(x;xr;y)
+{
+    !
+    ? x
+     sentinel1()
+	 +[--[+>-] --
+    ? > y [->] +
+      ++[-->++] > +]
+	? y y xr >>>> [-] < [-]
+    ? y xr >>>> prev33() ~
+}
+
+xor_move(x;y)
+{
+    !
+    ? move(x;y)
+    ? no_carryover(y)
+    ?~
+}
+
+#rn() and ln()
+#can't have another number in next space!
+shl(x;y;r;l)
+{
+	!
+    ? x
+      sentinel1()
+	  +[--[+>-]+
+    ? r > y +
+    ? >> x +]
+    ? >> y [-] - r +[[-]<+]
+	? prev33() r > ~
+}
+
+
+#rn() and ln()
+shr(x;y;r;l)
+{
+	!
+    ? x
+     sentinel1()
+     r
+	 +[--[+>-]+
+    ? > y +
+    ? >> x r +]
+	? y > -
+	? prev33() >> r ~
+}
+
+#need to ensure a==(32-b)
+rotr(x;xr;y;ra;la;rb;lb)
+{
+	!
+    ? x
+      sentinel1()
+	  +[--[+>-] --
+    ? > rb y +
+     ++[--<++]+ > +]
+    ? > rb rb y y xr - lb <
+      +[--[+>-] --
+      prev() >> +
+      ++[-->++] > +]
+      prev() > -
+	? prev() prev() xr y >>>>>> ~
+}
+
+S0(x;xr;y)
+{
+	!
+    ? x
+      sentinel1()
+	  +[--[+>-] --
+    ? > y r10() + r9() + r11() +
+     ++[--<++]+ > +]
+    ? > r30() r30() y y xr - l30() <
+      +[- [- prev() >> + << next()] > +] l30() - l3() - l11() - l9() - l10()
+      +[-[-->]>+]--<-
+      prev() >>
+      ++[-[->+] + > ++] < - >
+	? prev() prev() prev() xr y >>>>>>>> ~
+}
+
+
+S1(x;xr;y)
+{
+	!
+    ? x
+      sentinel1()
+	  +[--[+>-] --
+    ? > y r7() + r14() + r5() +
+     ++[-->++]+ > +]
+    ? >>> r26() r26() y y xr - l26() <
+      +[- [- prev() >> + << next()] > +] l26() - l7() - l5() - l14() - l7()
+      +[-[-->]>+]--<-
+      prev() >>
+      ++[-[->+] + > ++] < - >
+	? prev() prev() prev() xr y >>>>>>>>>> ~
+}
+
+sigma0(x;xr;y)
+{
+	!
+    ? x
+     sentinel1()
+     r3()
+	 +[--[+>-] --
+    ? > y +
+    ++[--<++]+ > +] - prev33()
+	  +[--[+>-] --
+    ? prev33() >> y y xr r14() + r11() +
+     ++[--<++]+ > +]
+    ? prev33() >> r25() r25() y y y xr xr - l25() <
+      +[- [- prev() >> + << next()] > +] l25() - l4() - l4() - l11() - l14()
+      +[-[-->]>+]--<-
+      prev() >>
+      ++[-[->+] + > ++] < - >
+	? prev33() prev() prev() prev() xr xr y y >>>>>>>>> ~
+}
+
+sigma1(x;xr;y)
+{
+	!
+    ? x
+     sentinel1()
+     r10()
+	 +[--[+>-] --
+    ? > y +
+    ++[--<++]+ > +] - prev33()
+	  +[--[+>-] --
+    ? prev33() >> y y xr r13() + r2() +
+     ++[--<++]+ > +]
+    ? prev33() >> r15() r15() y y y xr xr - l15() <
+      +[- [- prev() >> + << next()] > +] l15() - l11() - l7() - l2() - l13()
+      +[-[-->]>+]--<-
+      prev() >>
+      ++[-[->+] + > ++] < - >
+	? prev33() prev() prev() prev() xr xr y y >>>>>>>>> ~
+}
+
+Ch_and(x;xr;y;yr;z)
+{
+	!
+    ? x
+     sentinel1()
+	 +[--[+>-] --
+	 ? > y [
+     ? > z + [>] ]
+     ++[-->++]+ > +]
+	 ? prev33() z xr >>>> ~
+}
+
+Ch_andnot(x;xr;y;yr;z)
+{
+	!
+    ? x
+     sentinel0()
+	 +[-[>] --
+    ? > y [
+    ? > z + [>] ]
+    ++[-->++] > +]
+	? prev33() z xr >>>> ~
+}
+
+
+Ch(x;xr;y;yr;z;zr;u1;u2)
+{
+    !
+    ? Ch_and(x;xr;y;yr;u2)
+    ? Ch_andnot(x;xr;z;zr;u2)
+	? u2 next() << [-]
+    ?~
+}
+
+minus1pos(x)
+{
+	!
+    ? x
+     sentinel0()
+	 +[- [->]> +]
+	? prev33() >> ~
+}
+
+2to1(x)
+{
+	!
+    ? x
+      < ++ < [-] - >>
+      next() << [-]
+	  +[---[++<--]+<+]>-
+	? next() << ~
+}
+
+Maj(x;xr;y;yr;z;zr;u1;u2)
+{
+    !
+    ? copy_right(x;xr;u2)
+    ? copy_right(y;yr;u2)
+    ? copy_right(z;zr;u2)
+    ? minus1pos(u2)
+    ? 2to1(u2)
+    ?~
+}
+
+carryover_wn()
+{
+	!
+    ? W14()
+      < -- < [-] ++ >>
+    ? W78() << [-]
+	  +[---[++<--]>++] >
+	? W78() W14R() < ~
+}
+
+!
+#? x() +   #x = 1
+#? y() ++  #y = 2
+
+? W3() H7()
+? W4() H6()
+? W5() H5()
+? W6() H4()
+? W7() H3()
+? W8() H2()
+? W9() H1()
+? W10() H0()
+#W0
+? input(W14())
+#W1
+? input(W15())
+#W2
+? input(W16())
+#W3
+? input(W17())
+#W4
+? input(W18())
+#W5
+? input(W19())
+#W6
+? input(W20())
+#W7
+? input(W21())
+#W8
+? W22() setW8()
+#W15
+? W29() setW15()
+#W16
+
+? copy_right(W14();W14R();W30())
+
+? sigma0(W15();W15R();W32())
+? add_move_left(W32();W32R();W30())
+#W17
+? sigma1(W29();W29R();W31())
+? add_right(W15();W15R();W31())
+
+? sigma0(W16();W16R();W33())
+? add_move_left(W33();W33R();W31())
+#W18
+? sigma1(W30();W30R();W32())
+? add_right(W16();W16R();W32())
+
+? sigma0(W17();W17R();W34())
+? add_move_left(W34();W34R();W32())
+#W19
+? sigma1(W31();W31R();W33())
+? add_right(W17();W17R();W33())
+
+? sigma0(W18();W18R();W35())
+? add_move_left(W35();W35R();W33())
+#W20
+? sigma1(W32();W32R();W34())
+? add_right(W18();W18R();W34())
+
+? sigma0(W19();W19R();W36())
+? add_move_left(W36();W36R();W34())
+#W21
+? sigma1(W33();W33R();W35())
+? add_right(W19();W19R();W35())
+
+? sigma0(W20();W20R();W37())
+? add_move_left(W37();W37R();W35())
+#W22
+? sigma1(W34();W34R();W36())
+? add_right(W20();W20R();W36())
+
+? W36() setW15()
+? carryover(W36())
+
+? sigma0(W21();W21R();W38())
+? add_move_left(W38();W38R();W36())
+#W23
+? sigma1(W35();W35R();W37())
+? add_right(W21();W21R();W37())
+? add_right(W30();W30R();W37())
+? sigma0(W22();W22R();W39())
+? add_move_left(W39();W39R();W37())
+#W24
+? sigma1(W36();W36R();W38())
+
+? W38() setW8()
+? carryover(W38())
+
+? add_right(W31();W31R();W38())
+
+#W25
+? sigma1(W37();W37R();W39())
+
+? add_right(W32();W32R();W39())
+
+#W26
+? sigma1(W38();W38R();W40())
+
+? add_right(W33();W33R();W40())
+
+#W27
+? sigma1(W39();W39R();W41())
+
+? add_right(W34();W34R();W41())
+
+#W28
+? sigma1(W40();W40R();W42())
+
+? add_right(W35();W35R();W42())
+
+#W29
+? sigma1(W41();W41R();W43())
+
+? add_right(W36();W36R();W43())
+
+#W30
+? sigma1(W42();W42R();W44())
+
+? add_right(W37();W37R();W44())
+? sigma0(W29();W29R();W46())
+? add_move_left(W46();W46R();W44())
+#W31
+? sigma1(W43();W43R();W45())
+
+? W45() setW15()
+? carryover(W45())
+
+? add_right(W38();W38R();W45())
+? sigma0(W30();W30R();W47())
+? add_move_left(W47();W47R();W45())
+#W32
+? sigma1(W44();W44R();W46())
+? add_right(W30();W30R();W46())
+? add_right(W39();W39R();W46())
+? sigma0(W31();W31R();W48())
+? add_move_left(W48();W48R();W46())
+#W33
+? sigma1(W45();W45R();W47())
+? add_right(W31();W31R();W47())
+? add_right(W40();W40R();W47())
+? sigma0(W32();W32R();W49())
+? add_move_left(W49();W49R();W47())
+#W34
+? sigma1(W46();W46R();W48())
+? add_right(W32();W32R();W48())
+? add_right(W41();W41R();W48())
+? sigma0(W33();W33R();W50())
+? add_move_left(W50();W50R();W48())
+#W35
+? sigma1(W47();W47R();W49())
+? add_right(W33();W33R();W49())
+? add_right(W42();W42R();W49())
+? sigma0(W34();W34R();W51())
+? add_move_left(W51();W51R();W49())
+#W36
+? sigma1(W48();W48R();W50())
+? add_right(W34();W34R();W50())
+? add_right(W43();W43R();W50())
+? sigma0(W35();W35R();W52())
+? add_move_left(W52();W52R();W50())
+#W37
+? sigma1(W49();W49R();W51())
+? add_right(W35();W35R();W51())
+? add_right(W44();W44R();W51())
+? sigma0(W36();W36R();W53())
+? add_move_left(W53();W53R();W51())
+#W38
+? sigma1(W50();W50R();W52())
+? add_right(W36();W36R();W52())
+? add_right(W45();W45R();W52())
+? sigma0(W37();W37R();W54())
+? add_move_left(W54();W54R();W52())
+#W39
+? sigma1(W51();W51R();W53())
+? add_right(W37();W37R();W53())
+? add_right(W46();W46R();W53())
+? sigma0(W38();W38R();W55())
+? add_move_left(W55();W55R();W53())
+#W40
+? sigma1(W52();W52R();W54())
+? add_right(W38();W38R();W54())
+? add_right(W47();W47R();W54())
+? sigma0(W39();W39R();W56())
+? add_move_left(W56();W56R();W54())
+#W41
+? sigma1(W53();W53R();W55())
+? add_right(W39();W39R();W55())
+? add_right(W48();W48R();W55())
+? sigma0(W40();W40R();W57())
+? add_move_left(W57();W57R();W55())
+#W42
+? sigma1(W54();W54R();W56())
+? add_right(W40();W40R();W56())
+? add_right(W49();W49R();W56())
+? sigma0(W41();W41R();W58())
+? add_move_left(W58();W58R();W56())
+#W43
+? sigma1(W55();W55R();W57())
+? add_right(W41();W41R();W57())
+? add_right(W50();W50R();W57())
+? sigma0(W42();W42R();W59())
+? add_move_left(W59();W59R();W57())
+#W44
+? sigma1(W56();W56R();W58())
+? add_right(W42();W42R();W58())
+? add_right(W51();W51R();W58())
+? sigma0(W43();W43R();W60())
+? add_move_left(W60();W60R();W58())
+#W45
+? sigma1(W57();W57R();W59())
+? add_right(W43();W43R();W59())
+? add_right(W52();W52R();W59())
+? sigma0(W44();W44R();W61())
+? add_move_left(W61();W61R();W59())
+#W46
+? sigma1(W58();W58R();W60())
+? add_right(W44();W44R();W60())
+? add_right(W53();W53R();W60())
+? sigma0(W45();W45R();W62())
+? add_move_left(W62();W62R();W60())
+#W47
+? sigma1(W59();W59R();W61())
+? add_right(W45();W45R();W61())
+? add_right(W54();W54R();W61())
+? sigma0(W46();W46R();W63())
+? add_move_left(W63();W63R();W61())
+#W48
+? sigma1(W60();W60R();W62())
+? add_right(W46();W46R();W62())
+? add_right(W55();W55R();W62())
+? sigma0(W47();W47R();W64())
+? add_move_left(W64();W64R();W62())
+#W49
+? sigma1(W61();W61R();W63())
+? add_right(W47();W47R();W63())
+? add_right(W56();W56R();W63())
+? sigma0(W48();W48R();W65())
+? add_move_left(W65();W65R();W63())
+#W50
+? sigma1(W62();W62R();W64())
+? add_right(W48();W48R();W64())
+? add_right(W57();W57R();W64())
+? sigma0(W49();W49R();W66())
+? add_move_left(W66();W66R();W64())
+#W51
+? sigma1(W63();W63R();W65())
+? add_right(W49();W49R();W65())
+? add_right(W58();W58R();W65())
+? sigma0(W50();W50R();W67())
+? add_move_left(W67();W67R();W65())
+#W52
+? sigma1(W64();W64R();W66())
+? add_right(W50();W50R();W66())
+? add_right(W59();W59R();W66())
+? sigma0(W51();W51R();W68())
+? add_move_left(W68();W68R();W66())
+#W53
+? sigma1(W65();W65R();W67())
+? add_right(W51();W51R();W67())
+? add_right(W60();W60R();W67())
+? sigma0(W52();W52R();W69())
+? add_move_left(W69();W69R();W67())
+#W54
+? sigma1(W66();W66R();W68())
+? add_right(W52();W52R();W68())
+? add_right(W61();W61R();W68())
+? sigma0(W53();W53R();W70())
+? add_move_left(W70();W70R();W68())
+#W55
+? sigma1(W67();W67R();W69())
+? add_right(W53();W53R();W69())
+? add_right(W62();W62R();W69())
+? sigma0(W54();W54R();W71())
+? add_move_left(W71();W71R();W69())
+#W56
+? sigma1(W68();W68R();W70())
+? add_right(W54();W54R();W70())
+? add_right(W63();W63R();W70())
+? sigma0(W55();W55R();W72())
+? add_move_left(W72();W72R();W70())
+#W57
+? sigma1(W69();W69R();W71())
+? add_right(W55();W55R();W71())
+? add_right(W64();W64R();W71())
+? sigma0(W56();W56R();W73())
+? add_move_left(W73();W73R();W71())
+#W58
+? sigma1(W70();W70R();W72())
+? add_right(W56();W56R();W72())
+? add_right(W65();W65R();W72())
+? sigma0(W57();W57R();W74())
+? add_move_left(W74();W74R();W72())
+#W59
+? sigma1(W71();W71R();W73())
+? add_right(W57();W57R();W73())
+? add_right(W66();W66R();W73())
+? sigma0(W58();W58R();W75())
+? add_move_left(W75();W75R();W73())
+#W60
+? sigma1(W72();W72R();W74())
+? add_right(W58();W58R();W74())
+? add_right(W67();W67R();W74())
+? sigma0(W59();W59R();W76())
+? add_move_left(W76();W76R();W74())
+#W61
+? sigma1(W73();W73R();W75())
+? add_right(W59();W59R();W75())
+? add_right(W68();W68R();W75())
+? sigma0(W60();W60R();W77())
+? add_move_left(W77();W77R();W75())
+#W62
+? sigma1(W74();W74R();W76())
+? add_right(W60();W60R();W76())
+? add_right(W69();W69R();W76())
+? sigma0(W61();W61R();W78())
+? add_move_left(W78();W78R();W76())
+#W63
+? sigma1(W75();W75R();W77())
+? add_right(W61();W61R();W77())
+? add_right(W70();W70R();W77())
+? sigma0(W62();W62R();W79())
+? add_move_left(W79();W79R();W77())
+#K63
+? W77() K63()
+#K62
+? W76() K62()
+#K61
+? W75() K61()
+#K60
+? W74() K60()
+#K59
+? W73() K59()
+#K58
+? W72() K58()
+#K57
+? W71() K57()
+#K56
+? W70() K56()
+#K55
+? W69() K55()
+#K54
+? W68() K54()
+#K53
+? W67() K53()
+#K52
+? W66() K52()
+#K51
+? W65() K51()
+#K50
+? W64() K50()
+#K49
+? W63() K49()
+#K48
+? W62() K48()
+#K47
+? W61() K47()
+#K46
+? W60() K46()
+#K45
+? W59() K45()
+#K44
+? W58() K44()
+#K43
+? W57() K43()
+#K42
+? W56() K42()
+#K41
+? W55() K41()
+#K40
+? W54() K40()
+#K39
+? W53() K39()
+#K38
+? W52() K38()
+#K37
+? W51() K37()
+#K36
+? W50() K36()
+#K35
+? W49() K35()
+#K34
+? W48() K34()
+#K33
+? W47() K33()
+#K32
+? W46() K32()
+#K31
+? W45() K31()
+#K30
+? W44() K30()
+#K29
+? W43() K29()
+#K28
+? W42() K28()
+#K27
+? W41() K27()
+#K26
+? W40() K26()
+#K25
+? W39() K25()
+#K24
+? W38() K24()
+#K23
+? W37() K23()
+#K22
+? W36() K22()
+#K21
+? W35() K21()
+#K20
+? W34() K20()
+#K19
+? W33() K19()
+#K18
+? W32() K18()
+#K17
+? W31() K17()
+#K16
+? W30() K16()
+#K15
+? W29() K15()
+#K14
+? W28() K14()
+#K13
+? W27() K13()
+#K12
+? W26() K12()
+#K11
+? W25() K11()
+#K10
+? W24() K10()
+#K9
+? W23() K9()
+#K8
+? W22() K8()
+#K7
+? W21() K7()
+#K6
+? W20() K6()
+#K5
+? W19() K5()
+#K4
+? W18() K4()
+#K3
+? W17() K3()
+#K2
+? W16() K2()
+#K1
+? W15() K1()
+#K0
+? W14() K0()
+#t=0
+? S1(W6();W6R();W1())
+? Ch(W6();W6R();W5();W5R();W4();W4R();W0();W2())
+? add_move_right(W1();W1R();W2())
+? add_move_right(W2();W2R();W3())
+? move_right(W3();W3R();W11())
+? carryover(W14())
+? add_move_left(W14();W14R();W11())
+? add_left(W11();W11R();W7())
+? S0(W10();W10R();W13())
+? add_move_left(W13();W13R();W11())
+? Maj(W8();W8R();W9();W9R();W10();W10R();W13();W12())
+? add_move_left(W12();W12R();W11())
+#t=1
+? S1(W7();W7R();W2())
+? Ch(W7();W7R();W6();W6R();W5();W5R();W1();W3())
+? add_move_right(W2();W2R();W3())
+? add_move_right(W3();W3R();W4())
+? move_right(W4();W4R();W12())
+? carryover(W15())
+? add_move_left(W15();W15R();W12())
+? add_left(W12();W12R();W8())
+? S0(W11();W11R();W14())
+? add_move_left(W14();W14R();W12())
+? Maj(W9();W9R();W10();W10R();W11();W11R();W14();W13())
+? add_move_left(W13();W13R();W12())
+#t=2
+? S1(W8();W8R();W3())
+? Ch(W8();W8R();W7();W7R();W6();W6R();W2();W4())
+? add_move_right(W3();W3R();W4())
+? add_move_right(W4();W4R();W5())
+? move_right(W5();W5R();W13())
+? carryover(W16())
+? add_move_left(W16();W16R();W13())
+? add_left(W13();W13R();W9())
+? S0(W12();W12R();W15())
+? add_move_left(W15();W15R();W13())
+? Maj(W10();W10R();W11();W11R();W12();W12R();W15();W14())
+? add_move_left(W14();W14R();W13())
+#t=3
+? S1(W9();W9R();W4())
+? Ch(W9();W9R();W8();W8R();W7();W7R();W3();W5())
+? add_move_right(W4();W4R();W5())
+? add_move_right(W5();W5R();W6())
+? move_right(W6();W6R();W14())
+? carryover(W17())
+? add_move_left(W17();W17R();W14())
+? add_left(W14();W14R();W10())
+? S0(W13();W13R();W16())
+? add_move_left(W16();W16R();W14())
+? Maj(W11();W11R();W12();W12R();W13();W13R();W16();W15())
+? add_move_left(W15();W15R();W14())
+#t=4
+? S1(W10();W10R();W5())
+? Ch(W10();W10R();W9();W9R();W8();W8R();W4();W6())
+? add_move_right(W5();W5R();W6())
+? add_move_right(W6();W6R();W7())
+? move_right(W7();W7R();W15())
+? carryover(W18())
+? add_move_left(W18();W18R();W15())
+? add_left(W15();W15R();W11())
+? S0(W14();W14R();W17())
+? add_move_left(W17();W17R();W15())
+? Maj(W12();W12R();W13();W13R();W14();W14R();W17();W16())
+? add_move_left(W16();W16R();W15())
+#t=5
+? S1(W11();W11R();W6())
+? Ch(W11();W11R();W10();W10R();W9();W9R();W5();W7())
+? add_move_right(W6();W6R();W7())
+? add_move_right(W7();W7R();W8())
+? move_right(W8();W8R();W16())
+? carryover(W19())
+? add_move_left(W19();W19R();W16())
+? add_left(W16();W16R();W12())
+? S0(W15();W15R();W18())
+? add_move_left(W18();W18R();W16())
+? Maj(W13();W13R();W14();W14R();W15();W15R();W18();W17())
+? add_move_left(W17();W17R();W16())
+#t=6
+? S1(W12();W12R();W7())
+? Ch(W12();W12R();W11();W11R();W10();W10R();W6();W8())
+? add_move_right(W7();W7R();W8())
+? add_move_right(W8();W8R();W9())
+? move_right(W9();W9R();W17())
+? carryover(W20())
+? add_move_left(W20();W20R();W17())
+? add_left(W17();W17R();W13())
+? S0(W16();W16R();W19())
+? add_move_left(W19();W19R();W17())
+? Maj(W14();W14R();W15();W15R();W16();W16R();W19();W18())
+? add_move_left(W18();W18R();W17())
+#t=7
+? S1(W13();W13R();W8())
+? Ch(W13();W13R();W12();W12R();W11();W11R();W7();W9())
+? add_move_right(W8();W8R();W9())
+? add_move_right(W9();W9R();W10())
+? move_right(W10();W10R();W18())
+? carryover(W21())
+? add_move_left(W21();W21R();W18())
+? add_left(W18();W18R();W14())
+? S0(W17();W17R();W20())
+? add_move_left(W20();W20R();W18())
+? Maj(W15();W15R();W16();W16R();W17();W17R();W20();W19())
+? add_move_left(W19();W19R();W18())
+#t=8
+? S1(W14();W14R();W9())
+? Ch(W14();W14R();W13();W13R();W12();W12R();W8();W10())
+? add_move_right(W9();W9R();W10())
+? add_move_right(W10();W10R();W11())
+? move_right(W11();W11R();W19())
+? carryover(W22())
+? add_move_left(W22();W22R();W19())
+? add_left(W19();W19R();W15())
+? S0(W18();W18R();W21())
+? add_move_left(W21();W21R();W19())
+? Maj(W16();W16R();W17();W17R();W18();W18R();W21();W20())
+? add_move_left(W20();W20R();W19())
+#t=9
+? S1(W15();W15R();W10())
+? Ch(W15();W15R();W14();W14R();W13();W13R();W9();W11())
+? add_move_right(W10();W10R();W11())
+? add_move_right(W11();W11R();W12())
+? move_right(W12();W12R();W20())
+
+? add_move_left(W23();W23R();W20())
+? add_left(W20();W20R();W16())
+? S0(W19();W19R();W22())
+? add_move_left(W22();W22R();W20())
+? Maj(W17();W17R();W18();W18R();W19();W19R();W22();W21())
+? add_move_left(W21();W21R();W20())
+#t=10
+? S1(W16();W16R();W11())
+? Ch(W16();W16R();W15();W15R();W14();W14R();W10();W12())
+? add_move_right(W11();W11R();W12())
+? add_move_right(W12();W12R();W13())
+? move_right(W13();W13R();W21())
+
+? add_move_left(W24();W24R();W21())
+? add_left(W21();W21R();W17())
+? S0(W20();W20R();W23())
+? add_move_left(W23();W23R();W21())
+? Maj(W18();W18R();W19();W19R();W20();W20R();W23();W22())
+? add_move_left(W22();W22R();W21())
+#t=11
+? S1(W17();W17R();W12())
+? Ch(W17();W17R();W16();W16R();W15();W15R();W11();W13())
+? add_move_right(W12();W12R();W13())
+? add_move_right(W13();W13R();W14())
+? move_right(W14();W14R();W22())
+
+? add_move_left(W25();W25R();W22())
+? add_left(W22();W22R();W18())
+? S0(W21();W21R();W24())
+? add_move_left(W24();W24R();W22())
+? Maj(W19();W19R();W20();W20R();W21();W21R();W24();W23())
+? add_move_left(W23();W23R();W22())
+#t=12
+? S1(W18();W18R();W13())
+? Ch(W18();W18R();W17();W17R();W16();W16R();W12();W14())
+? add_move_right(W13();W13R();W14())
+? add_move_right(W14();W14R();W15())
+? move_right(W15();W15R();W23())
+
+? add_move_left(W26();W26R();W23())
+? add_left(W23();W23R();W19())
+? S0(W22();W22R();W25())
+? add_move_left(W25();W25R();W23())
+? Maj(W20();W20R();W21();W21R();W22();W22R();W25();W24())
+? add_move_left(W24();W24R();W23())
+#t=13
+? S1(W19();W19R();W14())
+? Ch(W19();W19R();W18();W18R();W17();W17R();W13();W15())
+? add_move_right(W14();W14R();W15())
+? add_move_right(W15();W15R();W16())
+? move_right(W16();W16R();W24())
+
+? add_move_left(W27();W27R();W24())
+? add_left(W24();W24R();W20())
+? S0(W23();W23R();W26())
+? add_move_left(W26();W26R();W24())
+? Maj(W21();W21R();W22();W22R();W23();W23R();W26();W25())
+? add_move_left(W25();W25R();W24())
+#t=14
+? S1(W20();W20R();W15())
+? Ch(W20();W20R();W19();W19R();W18();W18R();W14();W16())
+? add_move_right(W15();W15R();W16())
+? add_move_right(W16();W16R();W17())
+? move_right(W17();W17R();W25())
+
+? add_move_left(W28();W28R();W25())
+? add_left(W25();W25R();W21())
+? S0(W24();W24R();W27())
+? add_move_left(W27();W27R();W25())
+? Maj(W22();W22R();W23();W23R();W24();W24R();W27();W26())
+? add_move_left(W26();W26R();W25())
+#t=15
+? S1(W21();W21R();W16())
+? Ch(W21();W21R();W20();W20R();W19();W19R();W15();W17())
+? add_move_right(W16();W16R();W17())
+? add_move_right(W17();W17R();W18())
+? move_right(W18();W18R();W26())
+? carryover(W29())
+? add_move_left(W29();W29R();W26())
+? add_left(W26();W26R();W22())
+? S0(W25();W25R();W28())
+? add_move_left(W28();W28R();W26())
+? Maj(W23();W23R();W24();W24R();W25();W25R();W28();W27())
+? add_move_left(W27();W27R();W26())
+#t=16
+? S1(W22();W22R();W17())
+? Ch(W22();W22R();W21();W21R();W20();W20R();W16();W18())
+? add_move_right(W17();W17R();W18())
+? add_move_right(W18();W18R();W19())
+? move_right(W19();W19R();W27())
+? carryover(W30())
+? add_move_left(W30();W30R();W27())
+? add_left(W27();W27R();W23())
+? S0(W26();W26R();W29())
+? add_move_left(W29();W29R();W27())
+? Maj(W24();W24R();W25();W25R();W26();W26R();W29();W28())
+? add_move_left(W28();W28R();W27())
+#t=17
+? S1(W23();W23R();W18())
+? Ch(W23();W23R();W22();W22R();W21();W21R();W17();W19())
+? add_move_right(W18();W18R();W19())
+? add_move_right(W19();W19R();W20())
+? move_right(W20();W20R();W28())
+? carryover(W31())
+? add_move_left(W31();W31R();W28())
+? add_left(W28();W28R();W24())
+? S0(W27();W27R();W30())
+? add_move_left(W30();W30R();W28())
+? Maj(W25();W25R();W26();W26R();W27();W27R();W30();W29())
+? add_move_left(W29();W29R();W28())
+#t=18
+? S1(W24();W24R();W19())
+? Ch(W24();W24R();W23();W23R();W22();W22R();W18();W20())
+? add_move_right(W19();W19R();W20())
+? add_move_right(W20();W20R();W21())
+? move_right(W21();W21R();W29())
+? carryover(W32())
+? add_move_left(W32();W32R();W29())
+? add_left(W29();W29R();W25())
+? S0(W28();W28R();W31())
+? add_move_left(W31();W31R();W29())
+? Maj(W26();W26R();W27();W27R();W28();W28R();W31();W30())
+? add_move_left(W30();W30R();W29())
+#t=19
+? S1(W25();W25R();W20())
+? Ch(W25();W25R();W24();W24R();W23();W23R();W19();W21())
+? add_move_right(W20();W20R();W21())
+? add_move_right(W21();W21R();W22())
+? move_right(W22();W22R();W30())
+? carryover(W33())
+? add_move_left(W33();W33R();W30())
+? add_left(W30();W30R();W26())
+? S0(W29();W29R();W32())
+? add_move_left(W32();W32R();W30())
+? Maj(W27();W27R();W28();W28R();W29();W29R();W32();W31())
+? add_move_left(W31();W31R();W30())
+#t=20
+? S1(W26();W26R();W21())
+? Ch(W26();W26R();W25();W25R();W24();W24R();W20();W22())
+? add_move_right(W21();W21R();W22())
+? add_move_right(W22();W22R();W23())
+? move_right(W23();W23R();W31())
+? carryover(W34())
+? add_move_left(W34();W34R();W31())
+? add_left(W31();W31R();W27())
+? S0(W30();W30R();W33())
+? add_move_left(W33();W33R();W31())
+? Maj(W28();W28R();W29();W29R();W30();W30R();W33();W32())
+? add_move_left(W32();W32R();W31())
+#t=21
+? S1(W27();W27R();W22())
+? Ch(W27();W27R();W26();W26R();W25();W25R();W21();W23())
+? add_move_right(W22();W22R();W23())
+? add_move_right(W23();W23R();W24())
+? move_right(W24();W24R();W32())
+? carryover(W35())
+? add_move_left(W35();W35R();W32())
+? add_left(W32();W32R();W28())
+? S0(W31();W31R();W34())
+? add_move_left(W34();W34R();W32())
+? Maj(W29();W29R();W30();W30R();W31();W31R();W34();W33())
+? add_move_left(W33();W33R();W32())
+#t=22
+? S1(W28();W28R();W23())
+? Ch(W28();W28R();W27();W27R();W26();W26R();W22();W24())
+? add_move_right(W23();W23R();W24())
+? add_move_right(W24();W24R();W25())
+? move_right(W25();W25R();W33())
+? carryover(W36())
+? add_move_left(W36();W36R();W33())
+? add_left(W33();W33R();W29())
+? S0(W32();W32R();W35())
+? add_move_left(W35();W35R();W33())
+? Maj(W30();W30R();W31();W31R();W32();W32R();W35();W34())
+? add_move_left(W34();W34R();W33())
+#t=23
+? S1(W29();W29R();W24())
+? Ch(W29();W29R();W28();W28R();W27();W27R();W23();W25())
+? add_move_right(W24();W24R();W25())
+? add_move_right(W25();W25R();W26())
+? move_right(W26();W26R();W34())
+? carryover(W37())
+? add_move_left(W37();W37R();W34())
+? add_left(W34();W34R();W30())
+? S0(W33();W33R();W36())
+? add_move_left(W36();W36R();W34())
+? Maj(W31();W31R();W32();W32R();W33();W33R();W36();W35())
+? add_move_left(W35();W35R();W34())
+#t=24
+? S1(W30();W30R();W25())
+? Ch(W30();W30R();W29();W29R();W28();W28R();W24();W26())
+? add_move_right(W25();W25R();W26())
+? add_move_right(W26();W26R();W27())
+? move_right(W27();W27R();W35())
+? carryover(W38())
+? add_move_left(W38();W38R();W35())
+? add_left(W35();W35R();W31())
+? S0(W34();W34R();W37())
+? add_move_left(W37();W37R();W35())
+? Maj(W32();W32R();W33();W33R();W34();W34R();W37();W36())
+? add_move_left(W36();W36R();W35())
+#t=25
+? S1(W31();W31R();W26())
+? Ch(W31();W31R();W30();W30R();W29();W29R();W25();W27())
+? add_move_right(W26();W26R();W27())
+? add_move_right(W27();W27R();W28())
+? move_right(W28();W28R();W36())
+? carryover(W39())
+? add_move_left(W39();W39R();W36())
+? add_left(W36();W36R();W32())
+? S0(W35();W35R();W38())
+? add_move_left(W38();W38R();W36())
+? Maj(W33();W33R();W34();W34R();W35();W35R();W38();W37())
+? add_move_left(W37();W37R();W36())
+#t=26
+? S1(W32();W32R();W27())
+? Ch(W32();W32R();W31();W31R();W30();W30R();W26();W28())
+? add_move_right(W27();W27R();W28())
+? add_move_right(W28();W28R();W29())
+? move_right(W29();W29R();W37())
+? carryover(W40())
+? add_move_left(W40();W40R();W37())
+? add_left(W37();W37R();W33())
+? S0(W36();W36R();W39())
+? add_move_left(W39();W39R();W37())
+? Maj(W34();W34R();W35();W35R();W36();W36R();W39();W38())
+? add_move_left(W38();W38R();W37())
+#t=27
+? S1(W33();W33R();W28())
+? Ch(W33();W33R();W32();W32R();W31();W31R();W27();W29())
+? add_move_right(W28();W28R();W29())
+? add_move_right(W29();W29R();W30())
+? move_right(W30();W30R();W38())
+? carryover(W41())
+? add_move_left(W41();W41R();W38())
+? add_left(W38();W38R();W34())
+? S0(W37();W37R();W40())
+? add_move_left(W40();W40R();W38())
+? Maj(W35();W35R();W36();W36R();W37();W37R();W40();W39())
+? add_move_left(W39();W39R();W38())
+#t=28
+? S1(W34();W34R();W29())
+? Ch(W34();W34R();W33();W33R();W32();W32R();W28();W30())
+? add_move_right(W29();W29R();W30())
+? add_move_right(W30();W30R();W31())
+? move_right(W31();W31R();W39())
+? carryover(W42())
+? add_move_left(W42();W42R();W39())
+? add_left(W39();W39R();W35())
+? S0(W38();W38R();W41())
+? add_move_left(W41();W41R();W39())
+? Maj(W36();W36R();W37();W37R();W38();W38R();W41();W40())
+? add_move_left(W40();W40R();W39())
+#t=29
+? S1(W35();W35R();W30())
+? Ch(W35();W35R();W34();W34R();W33();W33R();W29();W31())
+? add_move_right(W30();W30R();W31())
+? add_move_right(W31();W31R();W32())
+? move_right(W32();W32R();W40())
+? carryover(W43())
+? add_move_left(W43();W43R();W40())
+? add_left(W40();W40R();W36())
+? S0(W39();W39R();W42())
+? add_move_left(W42();W42R();W40())
+? Maj(W37();W37R();W38();W38R();W39();W39R();W42();W41())
+? add_move_left(W41();W41R();W40())
+#t=30
+? S1(W36();W36R();W31())
+? Ch(W36();W36R();W35();W35R();W34();W34R();W30();W32())
+? add_move_right(W31();W31R();W32())
+? add_move_right(W32();W32R();W33())
+? move_right(W33();W33R();W41())
+? carryover(W44())
+? add_move_left(W44();W44R();W41())
+? add_left(W41();W41R();W37())
+? S0(W40();W40R();W43())
+? add_move_left(W43();W43R();W41())
+? Maj(W38();W38R();W39();W39R();W40();W40R();W43();W42())
+? add_move_left(W42();W42R();W41())
+#t=31
+? S1(W37();W37R();W32())
+? Ch(W37();W37R();W36();W36R();W35();W35R();W31();W33())
+? add_move_right(W32();W32R();W33())
+? add_move_right(W33();W33R();W34())
+? move_right(W34();W34R();W42())
+? carryover(W45())
+? add_move_left(W45();W45R();W42())
+? add_left(W42();W42R();W38())
+? S0(W41();W41R();W44())
+? add_move_left(W44();W44R();W42())
+? Maj(W39();W39R();W40();W40R();W41();W41R();W44();W43())
+? add_move_left(W43();W43R();W42())
+#t=32
+? S1(W38();W38R();W33())
+? Ch(W38();W38R();W37();W37R();W36();W36R();W32();W34())
+? add_move_right(W33();W33R();W34())
+? add_move_right(W34();W34R();W35())
+? move_right(W35();W35R();W43())
+? carryover(W46())
+? add_move_left(W46();W46R();W43())
+? add_left(W43();W43R();W39())
+? S0(W42();W42R();W45())
+? add_move_left(W45();W45R();W43())
+? Maj(W40();W40R();W41();W41R();W42();W42R();W45();W44())
+? add_move_left(W44();W44R();W43())
+#t=33
+? S1(W39();W39R();W34())
+? Ch(W39();W39R();W38();W38R();W37();W37R();W33();W35())
+? add_move_right(W34();W34R();W35())
+? add_move_right(W35();W35R();W36())
+? move_right(W36();W36R();W44())
+? carryover(W47())
+? add_move_left(W47();W47R();W44())
+? add_left(W44();W44R();W40())
+? S0(W43();W43R();W46())
+? add_move_left(W46();W46R();W44())
+? Maj(W41();W41R();W42();W42R();W43();W43R();W46();W45())
+? add_move_left(W45();W45R();W44())
+#t=34
+? S1(W40();W40R();W35())
+? Ch(W40();W40R();W39();W39R();W38();W38R();W34();W36())
+? add_move_right(W35();W35R();W36())
+? add_move_right(W36();W36R();W37())
+? move_right(W37();W37R();W45())
+? carryover(W48())
+? add_move_left(W48();W48R();W45())
+? add_left(W45();W45R();W41())
+? S0(W44();W44R();W47())
+? add_move_left(W47();W47R();W45())
+? Maj(W42();W42R();W43();W43R();W44();W44R();W47();W46())
+? add_move_left(W46();W46R();W45())
+#t=35
+? S1(W41();W41R();W36())
+? Ch(W41();W41R();W40();W40R();W39();W39R();W35();W37())
+? add_move_right(W36();W36R();W37())
+? add_move_right(W37();W37R();W38())
+? move_right(W38();W38R();W46())
+? carryover(W49())
+? add_move_left(W49();W49R();W46())
+? add_left(W46();W46R();W42())
+? S0(W45();W45R();W48())
+? add_move_left(W48();W48R();W46())
+? Maj(W43();W43R();W44();W44R();W45();W45R();W48();W47())
+? add_move_left(W47();W47R();W46())
+#t=36
+? S1(W42();W42R();W37())
+? Ch(W42();W42R();W41();W41R();W40();W40R();W36();W38())
+? add_move_right(W37();W37R();W38())
+? add_move_right(W38();W38R();W39())
+? move_right(W39();W39R();W47())
+? carryover(W50())
+? add_move_left(W50();W50R();W47())
+? add_left(W47();W47R();W43())
+? S0(W46();W46R();W49())
+? add_move_left(W49();W49R();W47())
+? Maj(W44();W44R();W45();W45R();W46();W46R();W49();W48())
+? add_move_left(W48();W48R();W47())
+#t=37
+? S1(W43();W43R();W38())
+? Ch(W43();W43R();W42();W42R();W41();W41R();W37();W39())
+? add_move_right(W38();W38R();W39())
+? add_move_right(W39();W39R();W40())
+? move_right(W40();W40R();W48())
+? carryover(W51())
+? add_move_left(W51();W51R();W48())
+? add_left(W48();W48R();W44())
+? S0(W47();W47R();W50())
+? add_move_left(W50();W50R();W48())
+? Maj(W45();W45R();W46();W46R();W47();W47R();W50();W49())
+? add_move_left(W49();W49R();W48())
+#t=38
+? S1(W44();W44R();W39())
+? Ch(W44();W44R();W43();W43R();W42();W42R();W38();W40())
+? add_move_right(W39();W39R();W40())
+? add_move_right(W40();W40R();W41())
+? move_right(W41();W41R();W49())
+? carryover(W52())
+? add_move_left(W52();W52R();W49())
+? add_left(W49();W49R();W45())
+? S0(W48();W48R();W51())
+? add_move_left(W51();W51R();W49())
+? Maj(W46();W46R();W47();W47R();W48();W48R();W51();W50())
+? add_move_left(W50();W50R();W49())
+#t=39
+? S1(W45();W45R();W40())
+? Ch(W45();W45R();W44();W44R();W43();W43R();W39();W41())
+? add_move_right(W40();W40R();W41())
+? add_move_right(W41();W41R();W42())
+? move_right(W42();W42R();W50())
+? carryover(W53())
+? add_move_left(W53();W53R();W50())
+? add_left(W50();W50R();W46())
+? S0(W49();W49R();W52())
+? add_move_left(W52();W52R();W50())
+? Maj(W47();W47R();W48();W48R();W49();W49R();W52();W51())
+? add_move_left(W51();W51R();W50())
+#t=40
+? S1(W46();W46R();W41())
+? Ch(W46();W46R();W45();W45R();W44();W44R();W40();W42())
+? add_move_right(W41();W41R();W42())
+? add_move_right(W42();W42R();W43())
+? move_right(W43();W43R();W51())
+? carryover(W54())
+? add_move_left(W54();W54R();W51())
+? add_left(W51();W51R();W47())
+? S0(W50();W50R();W53())
+? add_move_left(W53();W53R();W51())
+? Maj(W48();W48R();W49();W49R();W50();W50R();W53();W52())
+? add_move_left(W52();W52R();W51())
+#t=41
+? S1(W47();W47R();W42())
+? Ch(W47();W47R();W46();W46R();W45();W45R();W41();W43())
+? add_move_right(W42();W42R();W43())
+? add_move_right(W43();W43R();W44())
+? move_right(W44();W44R();W52())
+? carryover(W55())
+? add_move_left(W55();W55R();W52())
+? add_left(W52();W52R();W48())
+? S0(W51();W51R();W54())
+? add_move_left(W54();W54R();W52())
+? Maj(W49();W49R();W50();W50R();W51();W51R();W54();W53())
+? add_move_left(W53();W53R();W52())
+#t=42
+? S1(W48();W48R();W43())
+? Ch(W48();W48R();W47();W47R();W46();W46R();W42();W44())
+? add_move_right(W43();W43R();W44())
+? add_move_right(W44();W44R();W45())
+? move_right(W45();W45R();W53())
+? carryover(W56())
+? add_move_left(W56();W56R();W53())
+? add_left(W53();W53R();W49())
+? S0(W52();W52R();W55())
+? add_move_left(W55();W55R();W53())
+? Maj(W50();W50R();W51();W51R();W52();W52R();W55();W54())
+? add_move_left(W54();W54R();W53())
+#t=43
+? S1(W49();W49R();W44())
+? Ch(W49();W49R();W48();W48R();W47();W47R();W43();W45())
+? add_move_right(W44();W44R();W45())
+? add_move_right(W45();W45R();W46())
+? move_right(W46();W46R();W54())
+? carryover(W57())
+? add_move_left(W57();W57R();W54())
+? add_left(W54();W54R();W50())
+? S0(W53();W53R();W56())
+? add_move_left(W56();W56R();W54())
+? Maj(W51();W51R();W52();W52R();W53();W53R();W56();W55())
+? add_move_left(W55();W55R();W54())
+#t=44
+? S1(W50();W50R();W45())
+? Ch(W50();W50R();W49();W49R();W48();W48R();W44();W46())
+? add_move_right(W45();W45R();W46())
+? add_move_right(W46();W46R();W47())
+? move_right(W47();W47R();W55())
+? carryover(W58())
+? add_move_left(W58();W58R();W55())
+? add_left(W55();W55R();W51())
+? S0(W54();W54R();W57())
+? add_move_left(W57();W57R();W55())
+? Maj(W52();W52R();W53();W53R();W54();W54R();W57();W56())
+? add_move_left(W56();W56R();W55())
+#t=45
+? S1(W51();W51R();W46())
+? Ch(W51();W51R();W50();W50R();W49();W49R();W45();W47())
+? add_move_right(W46();W46R();W47())
+? add_move_right(W47();W47R();W48())
+? move_right(W48();W48R();W56())
+? carryover(W59())
+? add_move_left(W59();W59R();W56())
+? add_left(W56();W56R();W52())
+? S0(W55();W55R();W58())
+? add_move_left(W58();W58R();W56())
+? Maj(W53();W53R();W54();W54R();W55();W55R();W58();W57())
+? add_move_left(W57();W57R();W56())
+#t=46
+? S1(W52();W52R();W47())
+? Ch(W52();W52R();W51();W51R();W50();W50R();W46();W48())
+? add_move_right(W47();W47R();W48())
+? add_move_right(W48();W48R();W49())
+? move_right(W49();W49R();W57())
+? carryover(W60())
+? add_move_left(W60();W60R();W57())
+? add_left(W57();W57R();W53())
+? S0(W56();W56R();W59())
+? add_move_left(W59();W59R();W57())
+? Maj(W54();W54R();W55();W55R();W56();W56R();W59();W58())
+? add_move_left(W58();W58R();W57())
+#t=47
+? S1(W53();W53R();W48())
+? Ch(W53();W53R();W52();W52R();W51();W51R();W47();W49())
+? add_move_right(W48();W48R();W49())
+? add_move_right(W49();W49R();W50())
+? move_right(W50();W50R();W58())
+? carryover(W61())
+? add_move_left(W61();W61R();W58())
+? add_left(W58();W58R();W54())
+? S0(W57();W57R();W60())
+? add_move_left(W60();W60R();W58())
+? Maj(W55();W55R();W56();W56R();W57();W57R();W60();W59())
+? add_move_left(W59();W59R();W58())
+#t=48
+? S1(W54();W54R();W49())
+? Ch(W54();W54R();W53();W53R();W52();W52R();W48();W50())
+? add_move_right(W49();W49R();W50())
+? add_move_right(W50();W50R();W51())
+? move_right(W51();W51R();W59())
+? carryover(W62())
+? add_move_left(W62();W62R();W59())
+? add_left(W59();W59R();W55())
+? S0(W58();W58R();W61())
+? add_move_left(W61();W61R();W59())
+? Maj(W56();W56R();W57();W57R();W58();W58R();W61();W60())
+? add_move_left(W60();W60R();W59())
+#t=49
+? S1(W55();W55R();W50())
+? Ch(W55();W55R();W54();W54R();W53();W53R();W49();W51())
+? add_move_right(W50();W50R();W51())
+? add_move_right(W51();W51R();W52())
+? move_right(W52();W52R();W60())
+? carryover(W63())
+? add_move_left(W63();W63R();W60())
+? add_left(W60();W60R();W56())
+? S0(W59();W59R();W62())
+? add_move_left(W62();W62R();W60())
+? Maj(W57();W57R();W58();W58R();W59();W59R();W62();W61())
+? add_move_left(W61();W61R();W60())
+#t=50
+? S1(W56();W56R();W51())
+? Ch(W56();W56R();W55();W55R();W54();W54R();W50();W52())
+? add_move_right(W51();W51R();W52())
+? add_move_right(W52();W52R();W53())
+? move_right(W53();W53R();W61())
+? carryover(W64())
+? add_move_left(W64();W64R();W61())
+? add_left(W61();W61R();W57())
+? S0(W60();W60R();W63())
+? add_move_left(W63();W63R();W61())
+? Maj(W58();W58R();W59();W59R();W60();W60R();W63();W62())
+? add_move_left(W62();W62R();W61())
+#t=51
+? S1(W57();W57R();W52())
+? Ch(W57();W57R();W56();W56R();W55();W55R();W51();W53())
+? add_move_right(W52();W52R();W53())
+? add_move_right(W53();W53R();W54())
+? move_right(W54();W54R();W62())
+? carryover(W65())
+? add_move_left(W65();W65R();W62())
+? add_left(W62();W62R();W58())
+? S0(W61();W61R();W64())
+? add_move_left(W64();W64R();W62())
+? Maj(W59();W59R();W60();W60R();W61();W61R();W64();W63())
+? add_move_left(W63();W63R();W62())
+#t=52
+? S1(W58();W58R();W53())
+? Ch(W58();W58R();W57();W57R();W56();W56R();W52();W54())
+? add_move_right(W53();W53R();W54())
+? add_move_right(W54();W54R();W55())
+? move_right(W55();W55R();W63())
+? carryover(W66())
+? add_move_left(W66();W66R();W63())
+? add_left(W63();W63R();W59())
+? S0(W62();W62R();W65())
+? add_move_left(W65();W65R();W63())
+? Maj(W60();W60R();W61();W61R();W62();W62R();W65();W64())
+? add_move_left(W64();W64R();W63())
+#t=53
+? S1(W59();W59R();W54())
+? Ch(W59();W59R();W58();W58R();W57();W57R();W53();W55())
+? add_move_right(W54();W54R();W55())
+? add_move_right(W55();W55R();W56())
+? move_right(W56();W56R();W64())
+? carryover(W67())
+? add_move_left(W67();W67R();W64())
+? add_left(W64();W64R();W60())
+? S0(W63();W63R();W66())
+? add_move_left(W66();W66R();W64())
+? Maj(W61();W61R();W62();W62R();W63();W63R();W66();W65())
+? add_move_left(W65();W65R();W64())
+#t=54
+? S1(W60();W60R();W55())
+? Ch(W60();W60R();W59();W59R();W58();W58R();W54();W56())
+? add_move_right(W55();W55R();W56())
+? add_move_right(W56();W56R();W57())
+? move_right(W57();W57R();W65())
+? carryover(W68())
+? add_move_left(W68();W68R();W65())
+? add_left(W65();W65R();W61())
+? S0(W64();W64R();W67())
+? add_move_left(W67();W67R();W65())
+? Maj(W62();W62R();W63();W63R();W64();W64R();W67();W66())
+? add_move_left(W66();W66R();W65())
+#t=55
+? S1(W61();W61R();W56())
+? Ch(W61();W61R();W60();W60R();W59();W59R();W55();W57())
+? add_move_right(W56();W56R();W57())
+? add_move_right(W57();W57R();W58())
+? move_right(W58();W58R();W66())
+? carryover(W69())
+? add_move_left(W69();W69R();W66())
+? add_left(W66();W66R();W62())
+? S0(W65();W65R();W68())
+? add_move_left(W68();W68R();W66())
+? Maj(W63();W63R();W64();W64R();W65();W65R();W68();W67())
+? add_move_left(W67();W67R();W66())
+#t=56
+? S1(W62();W62R();W57())
+? Ch(W62();W62R();W61();W61R();W60();W60R();W56();W58())
+? add_move_right(W57();W57R();W58())
+? add_move_right(W58();W58R();W59())
+? move_right(W59();W59R();W67())
+? carryover(W70())
+? add_move_left(W70();W70R();W67())
+? add_left(W67();W67R();W63())
+? S0(W66();W66R();W69())
+? add_move_left(W69();W69R();W67())
+? Maj(W64();W64R();W65();W65R();W66();W66R();W69();W68())
+? add_move_left(W68();W68R();W67())
+#t=57
+? S1(W63();W63R();W58())
+? Ch(W63();W63R();W62();W62R();W61();W61R();W57();W59())
+? add_move_right(W58();W58R();W59())
+? add_move_right(W59();W59R();W60())
+? move_right(W60();W60R();W68())
+? carryover(W71())
+? add_move_left(W71();W71R();W68())
+? add_left(W68();W68R();W64())
+? S0(W67();W67R();W70())
+? add_move_left(W70();W70R();W68())
+? Maj(W65();W65R();W66();W66R();W67();W67R();W70();W69())
+? add_move_left(W69();W69R();W68())
+#t=58
+? S1(W64();W64R();W59())
+? Ch(W64();W64R();W63();W63R();W62();W62R();W58();W60())
+? add_move_right(W59();W59R();W60())
+? add_move_right(W60();W60R();W61())
+? move_right(W61();W61R();W69())
+? carryover(W72())
+? add_move_left(W72();W72R();W69())
+? add_left(W69();W69R();W65())
+? S0(W68();W68R();W71())
+? add_move_left(W71();W71R();W69())
+? Maj(W66();W66R();W67();W67R();W68();W68R();W71();W70())
+? add_move_left(W70();W70R();W69())
+#t=59
+? S1(W65();W65R();W60())
+? Ch(W65();W65R();W64();W64R();W63();W63R();W59();W61())
+? add_move_right(W60();W60R();W61())
+? add_move_right(W61();W61R();W62())
+? move_right(W62();W62R();W70())
+? carryover(W73())
+? add_move_left(W73();W73R();W70())
+? add_left(W70();W70R();W66())
+? S0(W69();W69R();W72())
+? add_move_left(W72();W72R();W70())
+? Maj(W67();W67R();W68();W68R();W69();W69R();W72();W71())
+? add_move_left(W71();W71R();W70())
+#t=60
+? S1(W66();W66R();W61())
+? Ch(W66();W66R();W65();W65R();W64();W64R();W60();W62())
+? add_move_right(W61();W61R();W62())
+? add_move_right(W62();W62R();W63())
+? move_right(W63();W63R();W71())
+? carryover(W74())
+? add_move_left(W74();W74R();W71())
+? add_left(W71();W71R();W67())
+? S0(W70();W70R();W73())
+? add_move_left(W73();W73R();W71())
+? Maj(W68();W68R();W69();W69R();W70();W70R();W73();W72())
+? add_move_left(W72();W72R();W71())
+#t=61
+? S1(W67();W67R();W62())
+? Ch(W67();W67R();W66();W66R();W65();W65R();W61();W63())
+? add_move_right(W62();W62R();W63())
+? add_move_right(W63();W63R();W64())
+? move_right(W64();W64R();W72())
+? carryover(W75())
+? add_move_left(W75();W75R();W72())
+? add_left(W72();W72R();W68())
+? S0(W71();W71R();W74())
+? add_move_left(W74();W74R();W72())
+? Maj(W69();W69R();W70();W70R();W71();W71R();W74();W73())
+? add_move_left(W73();W73R();W72())
+#t=62
+? S1(W68();W68R();W63())
+? Ch(W68();W68R();W67();W67R();W66();W66R();W62();W64())
+? add_move_right(W63();W63R();W64())
+? add_move_right(W64();W64R();W65())
+? move_right(W65();W65R();W73())
+? carryover(W76())
+? add_move_left(W76();W76R();W73())
+? add_left(W73();W73R();W69())
+? S0(W72();W72R();W75())
+? add_move_left(W75();W75R();W73())
+? Maj(W70();W70R();W71();W71R();W72();W72R();W75();W74())
+? add_move_left(W74();W74R();W73())
+#t=63
+? S1(W69();W69R();W64())
+? Ch(W69();W69R();W68();W68R();W67();W67R();W63();W65())
+? add_move_right(W64();W64R();W65())
+? add_move_right(W65();W65R();W66())
+? move_right(W66();W66R();W74())
+? carryover(W77())
+? add_move_left(W77();W77R();W74())
+? add_left(W74();W74R();W70())
+? S0(W73();W73R();W76())
+? add_move_left(W76();W76R();W74())
+? Maj(W71();W71R();W72();W72R();W73();W73R();W76();W75())
+? add_move_left(W75();W75R();W74())
+#H0
+? W74() H0()
+? carryover(W74())
+? output(W74())
+#H1
+? W73() H1()
+? carryover(W73())
+? output(W73())
+#H2
+? W72() H2()
+? carryover(W72())
+? output(W72())
+#H3
+? W71() H3()
+? carryover(W71())
+? output(W71())
+#H4
+? W70() H4()
+? carryover(W70())
+? output(W70())
+#H5
+? W69() H5()
+? carryover(W69())
+? output(W69())
+#H6
+? W68() H6()
+? carryover(W68())
+? output(W68())
+#H7
+? W67() H7()
+? carryover(W67())
+? output(W67())

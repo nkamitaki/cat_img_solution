@@ -1,0 +1,43 @@
+
+
+{
+   "ver":2,
+   "inputs":[
+      {
+         "sequence":4294967295,
+         "witness":"",
+         "prev_out":{
+            "spent":true,
+            "tx_index":303732163,
+            "type":0,
+            "addr":"3HvRbQU3CNVSasRpdLwRWp8WAhhhfmNriE",
+            "value":25000000,
+            "n":0,
+            "script":"a914b20b2dc5143794b978545fbde134defd28ad1b2887"
+         },
+         "script":"47304402200aebc1f85a105a45ec082a75379fc0d9539791ad922604561ce50a6becfd7fd8022072ff88e160e0f3c10db41dc034a87ba21d1818c62ecfb9eb86c97f5e2a7819540141041fbdcaa215003932de41bd382e36a2931adedd89a66b4902b88486136c48044f124c246cd1fe12e3c1cc6c619508bdf4732daaaacf5f7ecc9eb9ae0dd586318b4c6c446f6e27742073746f726520757020747265617375726573206f6e20656172746821204d6f74687320616e6420727573742063616e2064657374726f79207468656d2c20616e6420746869657665732063616e20627265616b20696e20616e6420737465616c207468656d2e30a914d350e77b990a97a04e8d2a7c977bb51f207128b68876a914cf063d12214dc9bee17bf41bd0141dab8a37bf6088ac"
+      }
+   ],
+   "weight":1536,
+   "block_height":518222,
+   "relayed_by":"0.0.0.0",
+   "out":[
+      {
+         "spent":true,
+         "tx_index":341971971,
+         "type":0,
+         "addr":"1CQfpUFP9DcMVa9a7s7W5Tf7QuScEt66JD",
+         "value":24960000,
+         "n":0,
+         "script":"76a9147d235ad0cbf94be4ed212ca68144f774c1ab614f88ac"
+      }
+   ],
+   "lock_time":0,
+   "size":384,
+   "double_spend":false,
+   "time":1523739811,
+   "tx_index":341971971,
+   "vin_sz":1,
+   "hash":"508b661820602521024041c8486ba72840130aafd5eb7128b37ffe017db41546",
+   "vout_sz":1
+}
