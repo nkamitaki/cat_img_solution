@@ -60,11 +60,7 @@ containing a [physics problem](physics_problem_1.txt).
 
 It is a problem of two disks on parallel frictionless rods, initially with one spinning while the other is at rest, brought together at the rims and allowed to reach equilibrium.  One can [calculate](https://physics.stackexchange.com/questions/231811/spinning-disk-touches-stationary-disk) the final angular velocity of the first disk by using conservation of angular momentum, knowing that the final angular velocity of both disks will be the same and relative moment of inertias are proportional to radius squared given identical thickness and density (the provided coefficient of friction is uneeded to solve):
 
-    (I<sub>1</sub>+I<sub>2</sub>)w<sub>f</sub> = I<sub>1</sub>w<sub>0</sub>
-    w<sub>f</sub> = (I<sub>1</sub>)/(I<sub>1</sub>+I<sub>2</sub>)w<sub>0</sub>
-    = (R<sub>1</sub><sup>2</sup>/(R<sub>1</sub><sup>2</sup>+R<sub>2</sub><sup>2</sup>))w<sub>0</sub>
-    = 0.9365490673504131<sup>2</sup>/(0.7416411280509497<sup>2</sup>+0.9365490673504131<sup>2</sup>)
-    = 0.6145959717
+![physics problem 1 solution](physics_problem_1.gif)
 
 When this value is entered into the "Enter a value" page it outputs a 32-byte hex string: `37107599e317f32f53e58571c857a45a4e1d1d88a46ae4983d3160f9962f5c0a`
 
