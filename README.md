@@ -91,7 +91,7 @@ The hex string obtained from the first physics problem, when used as an ECDSA pr
 
     041fbdcaa215003932de41bd382e36a2931adedd89a66b4902b88486136c48044f124c246cd1fe12e3c1cc6c619508bdf4732daaaacf5f7ecc9eb9ae0dd586318b
 
-Hashing the P2SH script above generates the corresponding address, `3HvRbQU3CNVSasRpdLwRWp8WAhhhfmNriE`, which was the prize location of 0.25 BTC. Examining the [funding transaction](https://blockchain.info/tx/1b36b1487563bc08a2a2326a6412924d52f15fe7cbd47140d1c4c790ef3fbb65) revealed another physics puzzle:
+Hashing the P2SH script above generates the corresponding address, [3HvRbQU3CNVSasRpdLwRWp8WAhhhfmNriE](https://blockchain.info/address/3HvRbQU3CNVSasRpdLwRWp8WAhhhfmNriE), which was the prize location of 0.25 BTC. Examining the [funding transaction](https://blockchain.info/tx/1b36b1487563bc08a2a2326a6412924d52f15fe7cbd47140d1c4c790ef3fbb65) revealed another physics puzzle:
 
     "Resistance of knight move in infinite 2D rectangular grid of 1 Ohm resistors"
 
