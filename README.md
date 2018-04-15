@@ -28,7 +28,7 @@ After unzipping the python program and looking at the code it becomes apparent t
 
 Within the program, if you enter in a valid series of steps that solve the maze, it XORs the steps with a mask array to generate the final output.
 
-One successful approach to solve this is to write a [maze solving program](maze_solver.py) that algorithmically determines the solution by.  Alternatively, given the source code, it can be [modified](amaze_print.py) to print out the maze and then be solved by hand.  In either case, the correct series of 105 steps is: `22021243333044042422430255240252153312502115150043534053024342251204424113434034050304140020352242252140` which leads to a Tor-accessible onion URL as the next step in the puzzle: http://gbhfpixmagkbskmo.onion/
+One successful approach to solve this is to write a [maze solving program](amaze_solver.py) that determines the solution by recursively checking for valid moves.  Alternatively, given the source code, it can be [modified](amaze_print.py) to print out the maze and then be solved by hand.  In either case, the correct series of 105 steps is: `22021243333044042422430255240252153312502115150043534053024342251204424113434034050304140020352242252140` which leads to a Tor-accessible onion URL as the next step in the puzzle: http://gbhfpixmagkbskmo.onion/
 
 ## 3) SHA-256 in brainfuck
 
