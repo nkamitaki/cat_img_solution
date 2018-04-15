@@ -105,7 +105,7 @@ Specifically, this quote is from the [Contemporary English Version (CEV) transla
 
     446f6e27742073746f726520757020747265617375726573206f6e20656172746821204d6f74687320616e6420727573742063616e2064657374726f79207468656d2c20616e6420746869657665732063616e20627265616b20696e20616e6420737465616c207468656d2e
 
-    Don't store up treasures on earth! Moths and rust can destroy them, and thieves can break in and steam them.
+    Don't store up treasures on earth! Moths and rust can destroy them, and thieves can break in and steal them.
 
 ## 7) Final transaction
 
